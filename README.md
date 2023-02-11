@@ -1,2 +1,2 @@
 # data-science
-Introductory projects into the field of data science. Begineer level.
+Introductory projects into the field of data science. Begineer level. Python-pandas
