@@ -1,2 +1,2 @@
 # data-science
-Introductory projects into the field of data science. Begineer level. Python-pandas. Jupyter notebook
+This repository contains basic and beginner-level data science projects that I have worked on during my free time, using Python and Jupyter Notebook. The projects cover a range of topics, including data visualization, data cleaning and statistical analysis. The code is organized by project, with each project contained in its own directory. The Jupyter Notebook files contain the code, along with detailed explanations and analysis of the results. This repository is intended for those who are just starting out in data science and want to get some hands-on experience working with real-world datasets.
