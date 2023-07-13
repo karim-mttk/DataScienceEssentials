@@ -21,3 +21,4 @@ JOIN invoices
 WHERE invoiceId IS NULL; 
 
 --Section 2--
+
